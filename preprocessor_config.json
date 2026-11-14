@@ -1,0 +1,47 @@
+{
+    "numeric_columns": [
+        "CreditScore",
+        "Age",
+        "Tenure",
+        "Balance",
+        "NumOfProducts",
+        "HasCrCard",
+        "IsActiveMember",
+        "EstimatedSalary"
+    ],
+    "means": [
+        650.7525,
+        38.946625,
+        5.016625,
+        76381.20749875,
+        1.5295,
+        0.70875,
+        0.514875,
+        99730.81158125
+    ],
+    "scales": [
+        96.59039415878786,
+        10.526218509482643,
+        2.8966098476279125,
+        62298.159596894104,
+        0.581704177396037,
+        0.45433846139194506,
+        0.49977868539484555,
+        57331.5329828387
+    ],
+    "categorical_columns": [
+        "Geography",
+        "Gender"
+    ],
+    "categories": [
+        [
+            "France",
+            "Germany",
+            "Spain"
+        ],
+        [
+            "Female",
+            "Male"
+        ]
+    ]
+}
